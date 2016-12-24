@@ -1,5 +1,4 @@
-## XSS Tags & Attributes DB
-
+## TagAttrDB
 
 ----------
 

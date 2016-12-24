@@ -1,0 +1,4 @@
+type
+media
+scoped
+title

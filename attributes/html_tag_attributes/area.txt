@@ -1,0 +1,15 @@
+accesskey
+alt
+coords
+download
+href
+hreflang
+name
+media
+nohref
+referrerpolicy
+rel
+shape
+tabindex
+target
+type

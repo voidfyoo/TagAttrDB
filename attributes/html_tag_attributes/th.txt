@@ -1,0 +1,12 @@
+abbr
+align
+axis
+bgcolor
+char
+charoff
+colspan
+headers
+rowspan
+scope
+valign
+width

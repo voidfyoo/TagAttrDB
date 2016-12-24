@@ -1,0 +1,11 @@
+behavior
+bgcolor
+direction
+height
+hspace
+loop
+scrollamount
+scrolldelay
+truespeed
+vspace
+width

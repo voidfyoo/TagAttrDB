@@ -1,0 +1,10 @@
+alink
+background
+bgcolor
+bottommargin
+leftmargin
+link
+rightmargin 
+text
+topmargin
+vlink

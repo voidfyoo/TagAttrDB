@@ -1,0 +1,9 @@
+align
+bgcolor
+border
+cellpadding
+cellspacing
+frame
+rules
+summary
+width

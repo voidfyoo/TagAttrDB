@@ -1,0 +1,16 @@
+archive
+border
+classid
+codebase
+codetype
+data
+declare
+form
+height
+name
+standby
+tabindex
+type
+typemustmatch
+usemap
+width

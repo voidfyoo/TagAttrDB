@@ -1,0 +1,11 @@
+autoplay
+autobuffer
+buffered
+controls
+loop
+mozCurrentSampleOffset 
+muted
+played
+preload
+src
+volume

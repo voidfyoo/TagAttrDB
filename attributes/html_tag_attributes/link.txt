@@ -1,0 +1,15 @@
+charset
+crossorigin
+disabled
+href
+hreflang
+integrity
+media
+methods
+referrerpolicy
+rel
+rev
+sizes
+target
+title
+type

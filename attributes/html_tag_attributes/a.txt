@@ -1,0 +1,12 @@
+download
+href
+hreflang
+referrerpolicy
+rel
+target
+type
+charset
+coords
+name
+rev
+shape

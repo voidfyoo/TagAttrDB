@@ -1,0 +1,11 @@
+class
+id
+style
+dir
+lquote
+href
+mathbackground
+mathcolor
+mathsize
+mathvariant
+rquote

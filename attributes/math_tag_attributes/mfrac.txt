@@ -1,0 +1,10 @@
+bevelled
+class
+id
+style
+denomalign
+href
+linethickness
+mathbackground
+mathcolor
+numalign

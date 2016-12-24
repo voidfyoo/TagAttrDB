@@ -1,0 +1,8 @@
+actiontype
+class
+id
+style
+href
+mathbackground
+mathcolor
+selection

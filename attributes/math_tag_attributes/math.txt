@@ -1,0 +1,10 @@
+class
+id
+style
+dir
+href
+mathbackground
+mathcolor
+display
+mode
+overflow

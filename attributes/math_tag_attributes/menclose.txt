@@ -1,0 +1,7 @@
+class
+id
+style
+href
+mathbackground
+mathcolor
+notation

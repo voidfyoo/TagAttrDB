@@ -1,0 +1,7 @@
+dir
+decimalpoint
+displaystyle
+infixlinebreakstyle
+scriptlevel
+scriptminsize
+scriptsizemultiplier

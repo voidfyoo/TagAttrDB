@@ -1,0 +1,11 @@
+class
+id
+style
+columnalign
+columnspan
+groupalign
+href
+mathbackground
+mathcolor
+rowalign
+rowspan

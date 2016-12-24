@@ -1,0 +1,11 @@
+class
+id
+style
+depth
+height
+href
+lspace
+mathbackground
+mathcolor
+voffset
+width

@@ -1,0 +1,9 @@
+class
+id
+style
+columnalign
+groupalign
+href
+mathbackground
+mathcolor
+rowalign

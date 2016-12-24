@@ -1,0 +1,8 @@
+class
+id
+style
+depth
+height
+linebreak
+mathbackground
+width

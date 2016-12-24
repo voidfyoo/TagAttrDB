@@ -1,0 +1,10 @@
+alt
+class
+id
+style
+height
+href
+mathbackground
+src
+valign
+width

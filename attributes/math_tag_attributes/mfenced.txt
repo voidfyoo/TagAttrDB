@@ -1,0 +1,9 @@
+class
+id
+style
+close
+href
+mathbackground
+mathcolor
+open
+separators

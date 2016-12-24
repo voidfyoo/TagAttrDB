@@ -1,0 +1,12 @@
+id
+exponent
+xml:base
+xml:space
+amplitude
+tableValues
+tabindex
+slope
+intercept
+offset
+type
+xml:lang

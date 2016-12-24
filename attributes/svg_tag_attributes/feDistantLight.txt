@@ -1,0 +1,7 @@
+id
+xml:base
+elevation
+xml:space
+azimuth
+tabindex
+xml:lang

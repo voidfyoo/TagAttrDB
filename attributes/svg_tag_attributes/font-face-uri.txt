@@ -1,0 +1,12 @@
+xlink:show
+id
+xlink:title
+xml:base
+xlink:arcrole
+xml:space
+xlink:role
+tabindex
+xlink:type
+xlink:actuate
+xlink:href
+xml:lang

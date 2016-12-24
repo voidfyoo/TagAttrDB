@@ -1,0 +1,6 @@
+id
+xml:base
+xml:space
+tabindex
+xml:lang
+Global event attributes

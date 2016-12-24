@@ -1,0 +1,13 @@
+x
+id
+specularExponent
+xml:base
+pointsAtX
+pointsAtY
+xml:space
+limitingConeAngle
+tabindex
+z
+pointsAtZ
+xml:lang
+y

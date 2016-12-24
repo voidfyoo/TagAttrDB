@@ -1,0 +1,8 @@
+title
+id
+media
+xml:base
+xml:space
+tabindex
+type
+xml:lang

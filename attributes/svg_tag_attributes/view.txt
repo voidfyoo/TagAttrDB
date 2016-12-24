@@ -1,0 +1,8 @@
+externalResourcesRequired
+id
+xml:base
+xml:space
+tabindex
+Aria attributes
+xml:lang
+Global event attributes

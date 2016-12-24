@@ -1,0 +1,5 @@
+id
+tabindex
+xml:lang
+xml:base
+xml:space

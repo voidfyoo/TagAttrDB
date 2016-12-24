@@ -1,0 +1,9 @@
+id
+xml:base
+systemLanguage
+xml:space
+tabindex
+requiredFeatures
+requiredExtensions
+Aria attributes
+xml:lang

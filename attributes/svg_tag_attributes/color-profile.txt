@@ -1,0 +1,15 @@
+xlink:arcrole
+local
+xlink:actuate
+xlink:type
+xlink:role
+xml:lang
+rendering-intent
+id
+tabindex
+xml:space
+xlink:title
+xlink:href
+xml:base
+xlink:show
+name

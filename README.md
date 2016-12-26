@@ -98,7 +98,7 @@ math_tag_attributes文件夹里存放的是math相关元素各个标签所有mat
 agnostic event handler attributes
 
 说明：
-- 这个文件列举出的事件属性是common_event_attributes.txt的一个子集，单独把它们列举出来的原因是这些事件属性可以在几乎任何html元素上触发（包括非标准的html元素）。方便在标签名被限制了的情况下进行fuzz
+- 这个文件列举出的事件属性是most_event_attributes.txt的一个子集，单独把它们列举出来的原因是这些事件属性可以在几乎任何html元素上触发（包括非标准的html元素）。方便在标签名被限制了的情况下进行fuzz
 - `onblur`,`oncontextmenu`,`onfocus`,`oninput`,`onkeydown`,`onkeypress`,`onkeyup`,`onpaste`,这些需要搭配`contenteditable`属性使用
 - 可能还没列举全，后续会再补充完善
 

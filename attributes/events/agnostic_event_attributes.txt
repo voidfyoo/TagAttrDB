@@ -1,7 +1,7 @@
 onblur
 onclick
 oncopy
-onctextmenu
+oncontextmenu
 oncut
 ondblclick
 ondrag

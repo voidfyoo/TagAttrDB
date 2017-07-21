@@ -1,0 +1,1 @@
+confirm(document.domain);
